@@ -12,7 +12,6 @@ IDE - InteliJ
 
 JAVA - JDK11
 
-SpringBoot - 2.5.6
+SpringBoot - 2.7.14
 
 Build - Gradle
-
