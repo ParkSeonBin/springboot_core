@@ -8,4 +8,4 @@
 23.10.16 - 23.10.20<br/><br/>
 
 ## ✏️정리
-[Notion]([https://loud-impulse-86e.notion.site/098e9f726e754cc298bc8f07c6570c99?pvs=4](https://loud-impulse-86e.notion.site/MVC-1-40b3c2b8b15e44f7ad2032736e613d9c?pvs=4)https://loud-impulse-86e.notion.site/MVC-1-40b3c2b8b15e44f7ad2032736e613d9c?pvs=4)
+[Notion](https://loud-impulse-86e.notion.site/MVC-1-40b3c2b8b15e44f7ad2032736e613d9c?pvs=4)
